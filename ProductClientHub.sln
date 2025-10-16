@@ -5,7 +5,7 @@ VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductClientHub.API", "ProductClientHub.API\ProductClientHub.API.csproj", "{744769AC-0CA2-47D1-88CE-A2D4632A9627}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductClientHub.Communication", "ProducClientHub.Communication\ProductClientHub.Communication.csproj", "{0B6E2CA2-DCD7-452C-952E-9BF9BF8FF7D1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductClientHub.Communication", "ProductClientHub.Communication\ProductClientHub.Communication.csproj", "{0B6E2CA2-DCD7-452C-952E-9BF9BF8FF7D1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductClientHub.Exceptions", "ProductClientHub.Exceptions\ProductClientHub.Exceptions.csproj", "{A3923107-9F1A-4D9F-97E3-6D7B8B1267BB}"
 EndProject
